@@ -9,8 +9,11 @@ D:\Documents\projects\VS\Simple\Simple\bin\Debug\netcoreapp3.0\Simple.dll
 D:\Documents\projects\VS\Simple\Simple\bin\Debug\netcoreapp3.0\Simple.pdb
 D:\Documents\projects\VS\Simple\Simple\bin\Debug\netcoreapp3.0\Simple.Views.dll
 D:\Documents\projects\VS\Simple\Simple\bin\Debug\netcoreapp3.0\Simple.Views.pdb
+D:\Documents\projects\VS\Simple\Simple\obj\Debug\netcoreapp3.0\Simple.csprojAssemblyReference.cache
 D:\Documents\projects\VS\Simple\Simple\obj\Debug\netcoreapp3.0\staticwebassets\Simple.StaticWebAssets.Manifest.cache
 D:\Documents\projects\VS\Simple\Simple\obj\Debug\netcoreapp3.0\staticwebassets\Simple.StaticWebAssets.xml
+D:\Documents\projects\VS\Simple\Simple\obj\Debug\netcoreapp3.0\Simple.Properties.Resources.resources
+D:\Documents\projects\VS\Simple\Simple\obj\Debug\netcoreapp3.0\Simple.csproj.GenerateResource.cache
 D:\Documents\projects\VS\Simple\Simple\obj\Debug\netcoreapp3.0\Simple.MvcApplicationPartsAssemblyInfo.cache
 D:\Documents\projects\VS\Simple\Simple\obj\Debug\netcoreapp3.0\Simple.RazorAssemblyInfo.cache
 D:\Documents\projects\VS\Simple\Simple\obj\Debug\netcoreapp3.0\Simple.RazorAssemblyInfo.cs
