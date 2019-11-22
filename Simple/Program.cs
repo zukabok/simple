@@ -15,7 +15,11 @@ namespace Simple
         {
             CreateHostBuilder(args).Build().Run();
         }
-
+        /// <summary>
+        /// dfgdfg
+        /// </summary>
+        /// <param name="args"></param>
+        /// <returns></returns>
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
